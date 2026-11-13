@@ -4,6 +4,9 @@ A personal-finance tool that turns bank and credit card statements into a clear 
 
 Doing the monthly accounts by hand means downloading statements, tagging every payment and rebuilding the totals. Finance Buddy does it automatically.
 
+Note: The screenshots use synthetic data, not my real finances.
+
+
 ![Monthly recap](monthly_recap.png)
 
 ## What it does
